@@ -1,3 +1,7 @@
+Look at this beatiful diff 😄
+
+![Diff](src/__image_snapshots__/__diff_output__/storyshot-test-js-image-storyshots-button-with-some-emoji-1-diff.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
